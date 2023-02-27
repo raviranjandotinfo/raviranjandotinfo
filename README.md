@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @raviranjandotinfo
 - 👀 I’m interested in Coding and datascience stuff.
 - 🌱 I’m currently learning Datascience with Python.
-- 💞️ I’m looking to collaborate on AI Projects
+- 💞️ I’m looking to collaborate on ML & AI Projects
+- :school: Masters in Data science May-2022, Rowan University.
 - 📫 Mail me at me@raviranjan.info
+
 
 <!---
 raviranjandotinfo/raviranjandotinfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
